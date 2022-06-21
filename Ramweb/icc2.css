@@ -1,0 +1,33 @@
+ img{
+    width: 200px;
+    height: 500;
+} 
+ button{
+     align: right ;
+} 
+body{
+    width: 100%;
+    height: 100%;
+    
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("https://images.sadhguru.org/sites/default/files/inline-images/sadhguru-isha-blog-image-youth-and-truth-campus-gossip-iit-bombay-20180920_HKS_0246-e.jpg");
+}
+body center {
+    background-color: rgb(7, 151, 7);
+    size: 20px 25px;
+    padding: 0px;
+    border-radius: 2000px;
+    box-sizing: border-box;
+    margin: 500px 100px;
+    border-color: rgb(46, 11, 241);
+    font-style: italic;
+}
+.backgroundimage  header nav li a{
+     
+    text-decoration: none;
+   
+}
